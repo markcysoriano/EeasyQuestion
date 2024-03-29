@@ -1,0 +1,84 @@
+{
+  "QuizQuestions": [
+    {
+      "Question": "What is the most common cause of house fires?",
+      "Option_1": "A).Electrical malfunction",
+      "Option_2": "B).Cooking accidents",
+      "Option_3": "C).Smoking indoors",
+      "Option_4": "D).Faulty wiring",
+      "Correct_Answer": "B).Cooking accidents"
+    },
+    {
+      "Question": "What should you do during an earthquake?",
+      "Option_1": "A).Stand near a window",
+      "Option_2": "B).Hide under a table or desk",
+      "Option_3": "C).Run outside immediately",
+      "Option_4": "D).Stay in bed",
+      "Correct_Answer": "B).Hide under a table or desk"
+    },
+    {
+      "Question": "What is the main cause of car accidents?",
+      "Option_1": "A).Speeding",
+      "Option_2": "B).Drunk driving",
+      "Option_3": "C).Distracted driving",
+      "Option_4": "D).Poor road conditions",
+      "Correct_Answer": "C).Distracted driving"
+    },
+    {
+      "Question": "What is the safest room to take shelter in during a tornado?",
+      "Option_1": "A).Basement",
+      "Option_2": "B).Bathroom",
+      "Option_3": "C).Living room",
+      "Option_4": "D). Garage",
+      "Correct_Answer": "A).Basement"
+    },
+    {
+      "Question": "What is the primary safety precaution during a flood?",
+      "Option_1": "A).Stay indoors",
+      "Option_2": "B).Drive through flooded areas",
+      "Option_3": "C).Climb to high ground",
+      "Option_4": "D).Swim in the floodwater",
+      "Correct_Answer": "C).Climb to high ground"
+    },
+    {
+      "Question": "How can you prevent kitchen fires?",
+      "Option_1": "A).Keep flammable objects near the stove",
+      "Option_2": "B).Never leave cooking unattended",
+      "Option_3": "C).Use water to put out grease fires",
+      "Option_4": "D).Cook with high heat settings",
+      "Correct_Answer": "B).Never leave cooking unattended"
+    },
+    {
+      "Question": "What should you do if you smell gas in your home?",
+      "Option_1": "A).Light a match to check for leaks",
+      "Option_2": "B).Open windows to ventilate",
+      "Option_3": "C).Immediately leave the building",
+      "Option_4": "D).Call a friend for help",
+      "Correct_Answer": "C).Immediately leave the building"
+    },
+    {
+      "Question": "What is the leading cause of workplace accidents?",
+      "Option_1": "A).Falls",
+      "Option_2": "B).Machinery malfunction",
+      "Option_3": "C).Lack of training",
+      "Option_4": "D).Poor lighting",
+      "Correct_Answer": "A).Falls"
+    },
+    {
+      "Question": "How can you prevent slips, trips, and falls?",
+      "Option_1": "A).Wear shoes with no traction",
+      "Option_2": "B).Keep walkways clear of obstacles",
+      "Option_3": "C).Run instead of walking",
+      "Option_4": "D).Ignore wet floors",
+      "Correct_Answer": "B).Keep walkways clear of obstacles"
+    },
+    {
+      "Question": "What is the recommended emergency kit item for power outages?",
+      "Option_1": "A).Flashlight",
+      "Option_2": "B).Candles",
+      "Option_3": "C).Electric heater",
+      "Option_4": "D).Blanket",
+      "Correct_Answer": "A).Flashlight"
+    }
+  ]
+}
